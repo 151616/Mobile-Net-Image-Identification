@@ -1,0 +1,58 @@
+.header_div{
+    background-color: white;
+    color: orangered;
+    font-family: 'Zen Tokyo Zoo';
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    background-color: peachpuff;
+    padding: 10px;
+border: 3px solid white;
+    margin-top: 15px;
+}
+.main_div label{
+    background-color: whitesmoke;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+#camera, #result{
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.footer_div{
+    margin-bottom: 50px;
+
+}
+.footer_div h4{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width: 60px;
+    height: 60px;
+
+}
+.copyright_footer{
+    position: fixed;
+    width: 100%;
+    background: white ;
+    color: gray;
+    line-height: 3px;
+    text-align: center;
+    bottom: 0px;
+
+}
